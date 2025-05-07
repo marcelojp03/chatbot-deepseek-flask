@@ -40,7 +40,7 @@ Respuesta:
 """
 
 # Configuración de API DeepSeek
-DEEPSEEK_API_KEY = "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"
+DEEPSEEK_API_KEY = "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"
 client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://openrouter.ai/api/v1")
 
 # Directorios
